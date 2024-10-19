@@ -2,6 +2,8 @@
 
 ## PASOS
 
+Desarrolla un sistema de gestión de una biblioteca utilizando MongoDB Atlas. El sistema debe permitir a los usuarios buscar libros por título, autor y categoría. Además, deben poder agregar nuevos libros a la colección y eliminar aquellos que ya no estén disponibles. Para ello, deberás diseñar un documento que permita almacenar esta información e implementar las siguientes queries:
+
 ### Paso 1: Configuración del entorno en MongoDB Atlas
 
 1. **Crear una cuenta en MongoDB Atlas:**
