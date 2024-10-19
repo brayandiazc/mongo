@@ -34,7 +34,7 @@ Cada libro en la colección `Libros` tendrá la siguiente estructura:
 Puedes usar el siguiente script para agregar 11 libros a la colección `Libros` desde el shell de MongoDB o desde MongoDB Compass:
 
 ```js
-db.Libros.insertMany([
+db.libros.insertMany([
   {
     titulo: "Cien años de soledad",
     autor: "Gabriel García Márquez",
