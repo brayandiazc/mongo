@@ -1,0 +1,79 @@
+[
+  {
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Novela",
+    "anioPublicacion": 1967,
+    "disponible": true
+  },
+  {
+    "titulo": "Don Quijote de la Mancha",
+    "autor": "Miguel de Cervantes",
+    "categoria": "Novela",
+    "anioPublicacion": 1605,
+    "disponible": true
+  },
+  {
+    "titulo": "El amor en los tiempos del cólera",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Novela",
+    "anioPublicacion": 1985,
+    "disponible": true
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "categoria": "Ciencia ficción",
+    "anioPublicacion": 1949,
+    "disponible": true
+  },
+  {
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "categoria": "Ciencia ficción",
+    "anioPublicacion": 1953,
+    "disponible": true
+  },
+  {
+    "titulo": "Crónica de una muerte anunciada",
+    "autor": "Gabriel García Márquez",
+    "categoria": "Novela",
+    "anioPublicacion": 1981,
+    "disponible": true
+  },
+  {
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "categoria": "Fábula",
+    "anioPublicacion": 1943,
+    "disponible": true
+  },
+  {
+    "titulo": "Orgullo y prejuicio",
+    "autor": "Jane Austen",
+    "categoria": "Novela",
+    "anioPublicacion": 1813,
+    "disponible": true
+  },
+  {
+    "titulo": "Matar a un ruiseñor",
+    "autor": "Harper Lee",
+    "categoria": "Novela",
+    "anioPublicacion": 1960,
+    "disponible": true
+  },
+  {
+    "titulo": "El Hobbit",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Fantasía",
+    "anioPublicacion": 1937,
+    "disponible": true
+  },
+  {
+    "titulo": "El señor de los anillos",
+    "autor": "J.R.R. Tolkien",
+    "categoria": "Fantasía",
+    "anioPublicacion": 1954,
+    "disponible": true
+  }
+]

@@ -1,0 +1,12 @@
+titulo,autor,categoria,anioPublicacion,disponible
+"Cien años de soledad","Gabriel García Márquez","Novela",1967,true
+"Don Quijote de la Mancha","Miguel de Cervantes","Novela",1605,true
+"El amor en los tiempos del cólera","Gabriel García Márquez","Novela",1985,true
+"1984","George Orwell","Ciencia ficción",1949,true
+"Fahrenheit 451","Ray Bradbury","Ciencia ficción",1953,true
+"Crónica de una muerte anunciada","Gabriel García Márquez","Novela",1981,true
+"El Principito","Antoine de Saint-Exupéry","Fábula",1943,true
+"Orgullo y prejuicio","Jane Austen","Novela",1813,true
+"Matar a un ruiseñor","Harper Lee","Novela",1960,true
+"El Hobbit","J.R.R. Tolkien","Fantasía",1937,true
+"El señor de los anillos","J.R.R. Tolkien","Fantasía",1954,true
