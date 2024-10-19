@@ -120,7 +120,7 @@ db.libros.insertMany([
 Para eliminar un libro en particular, usa el método `deleteOne` con una query que filtre por el título del libro.
 
 ```js
-db.Libros.deleteOne({ titulo: "El Hobbit" });
+db.libros.deleteOne({ titulo: "El Hobbit" });
 ```
 
 Esto eliminará el libro titulado "El Hobbit" de la colección.
@@ -130,7 +130,7 @@ Esto eliminará el libro titulado "El Hobbit" de la colección.
 Puedes realizar una consulta para buscar libros por título utilizando el siguiente comando. Este buscará todos los libros cuyo título contenga una coincidencia:
 
 ```js
-db.Libros.find(
+db.libros.find(
   { titulo: /Cien años de soledad/i },
   { titulo: 1, autor: 1, categoria: 1, _id: 0 }
 );
@@ -143,7 +143,7 @@ Este comando busca libros cuyo título incluya "Cien años de soledad" (ignora m
 Para buscar libros por autor, puedes usar el siguiente query. Esto buscará todos los libros de un autor específico:
 
 ```js
-db.Libros.find(
+db.libros.find(
   { autor: "Gabriel García Márquez" },
   { titulo: 1, autor: 1, categoria: 1, _id: 0 }
 );
@@ -156,7 +156,7 @@ Esta consulta devolverá los libros escritos por Gabriel García Márquez y most
 Para buscar libros según la categoría, realiza la siguiente consulta. Esto devolverá todos los libros dentro de una categoría específica, como "Ciencia ficción":
 
 ```js
-db.Libros.find(
+db.libros.find(
   { categoria: "Ciencia ficción" },
   { titulo: 1, autor: 1, categoria: 1, _id: 0 }
 );
